@@ -1,0 +1,36 @@
+h1 {
+  border-style: solid;
+  text-align:center;
+  background-color: lightblue;
+  width: 200px;
+  height: 100px;
+  font-family: Helvetica, sans-serif;
+
+}
+
+ul {
+
+  border-style: solid;
+  display: inline-block;
+  background-color: pink;
+  width: 200px;
+  height: 100px;
+
+
+}
+
+a {
+  color: red;
+  font-size: 30px;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  font-size: 30px;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+
+  background-color: lightgray;
+}
